@@ -1,0 +1,47 @@
+{
+ "fx": {
+  "name": "Nieve con luces cálidas",
+  "cat": "Naturaleza",
+  "speed": 1.0,
+  "layers": [
+   {
+    "type": "snow",
+    "rate": 3,
+    "speed": 0.2,
+    "drift": 0.4,
+    "size": 0.032,
+    "rings": 1,
+    "color": "#ffffff",
+    "bg": "#050520"
+   },
+   {
+    "type": "twinkle",
+    "density": 0.04,
+    "decay": 2,
+    "base": 0.0,
+    "color": "#ffc45a",
+    "blend": "add"
+   }
+  ],
+  "tags": [
+   "naturaleza",
+   "galeria"
+  ],
+  "from": "Galería de la comunidad"
+ },
+ "scene": {
+  "name": "Nieve con luces cálidas",
+  "wh": 100,
+  "spd": 50,
+  "bri": 90,
+  "hp": 2,
+  "hm": 31,
+  "tr": 1,
+  "music": "",
+  "loop": true,
+  "c1": "#ffffff",
+  "c2": "#050520",
+  "star": 2,
+  "motor": 20
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "fx": {
+  "name": "Arcoíris suave",
+  "cat": "Colores",
+  "speed": 1.0,
+  "layers": [
+   {
+    "type": "rainbow",
+    "scale": 1.0,
+    "speed": 0.15,
+    "sat": 0.85,
+    "val": 0.8,
+    "white": 0.1
+   }
+  ],
+  "tags": [
+   "colores",
+   "galeria"
+  ],
+  "from": "Galería de la comunidad"
+ },
+ "scene": {
+  "name": "Arcoíris suave",
+  "wh": 100,
+  "spd": 50,
+  "bri": 90,
+  "hp": 2,
+  "hm": 31,
+  "tr": 1,
+  "music": "",
+  "loop": true,
+  "c1": "#ffffff",
+  "c2": "#000000",
+  "star": 0,
+  "motor": 30
+ }
+}

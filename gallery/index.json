@@ -1,0 +1,61 @@
+{
+ "ver": 1,
+ "items": [
+  {
+   "id": "nieve_calida",
+   "name": "Nieve con luces cálidas",
+   "desc": "Copos suaves cayendo y luces doradas que titilan.",
+   "cat": "Naturaleza",
+   "file": "nieve_calida.json"
+  },
+  {
+   "id": "tormenta_lejana",
+   "name": "Tormenta lejana",
+   "desc": "Rayos con destellitos entre uno y otro.",
+   "cat": "Naturaleza",
+   "file": "tormenta_lejana.json"
+  },
+  {
+   "id": "aurora_hielo",
+   "name": "Aurora de hielo",
+   "desc": "Cortinas verdes y azules que se mueven despacio.",
+   "cat": "Naturaleza",
+   "file": "aurora_hielo.json"
+  },
+  {
+   "id": "corazon_latido",
+   "name": "Corazón latiendo",
+   "desc": "Todo el árbol late como un corazón.",
+   "cat": "Amor",
+   "file": "corazon_latido.json"
+  },
+  {
+   "id": "chimenea_chispas",
+   "name": "Chimenea con chispas",
+   "desc": "Fuego abajo y chispitas que suben.",
+   "cat": "Fuego y luz",
+   "file": "chimenea_chispas.json"
+  },
+  {
+   "id": "cometas_hielo",
+   "name": "Cometas de hielo",
+   "desc": "Cinco cometas azules y blancos dan vueltas por todo el árbol.",
+   "cat": "Cielo",
+   "file": "cometas_hielo.json"
+  },
+  {
+   "id": "arcoiris_suave",
+   "name": "Arcoíris suave",
+   "desc": "Colores del arcoíris muy tranquilos.",
+   "cat": "Colores",
+   "file": "arcoiris_suave.json"
+  },
+  {
+   "id": "fuegos_nuevo_ano",
+   "name": "Fuegos de Año Nuevo",
+   "desc": "Fuegos artificiales sobre un cielo estrellado.",
+   "cat": "Fiestas",
+   "file": "fuegos_nuevo_ano.json"
+  }
+ ]
+}

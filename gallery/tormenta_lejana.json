@@ -1,0 +1,39 @@
+{
+ "fx": {
+  "name": "Tormenta lejana",
+  "cat": "Naturaleza",
+  "speed": 1.0,
+  "layers": [
+   {
+    "type": "lightning",
+    "rate": 0.4,
+    "branches": 1,
+    "flash": 0.12,
+    "cloud": 0.5,
+    "glimmer": 0.15,
+    "color": "#cfe0ff",
+    "bg": "#26005a"
+   }
+  ],
+  "tags": [
+   "naturaleza",
+   "galeria"
+  ],
+  "from": "Galería de la comunidad"
+ },
+ "scene": {
+  "name": "Tormenta lejana",
+  "wh": 100,
+  "spd": 50,
+  "bri": 90,
+  "hp": 2,
+  "hm": 31,
+  "tr": 1,
+  "music": "",
+  "loop": true,
+  "c1": "#cfe0ff",
+  "c2": "#26005a",
+  "star": 2,
+  "motor": 25
+ }
+}

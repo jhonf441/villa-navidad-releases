@@ -1,0 +1,43 @@
+{
+ "fx": {
+  "name": "Cometas de hielo",
+  "cat": "Cielo",
+  "speed": 1.0,
+  "layers": [
+   {
+    "type": "orbit",
+    "count": 5,
+    "speed": 0.14,
+    "tail": 14,
+    "spread": 0.1,
+    "hbase": 0.45,
+    "hwidth": 0.07,
+    "colors": [
+     "#7fd0ff",
+     "#ffffff"
+    ],
+    "bg": "#000010"
+   }
+  ],
+  "tags": [
+   "cielo",
+   "galeria"
+  ],
+  "from": "Galería de la comunidad"
+ },
+ "scene": {
+  "name": "Cometas de hielo",
+  "wh": 100,
+  "spd": 50,
+  "bri": 90,
+  "hp": 2,
+  "hm": 31,
+  "tr": 1,
+  "music": "",
+  "loop": true,
+  "c1": "#7fd0ff",
+  "c2": "#ffffff",
+  "star": 2,
+  "motor": 35
+ }
+}

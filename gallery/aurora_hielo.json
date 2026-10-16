@@ -1,0 +1,47 @@
+{
+ "fx": {
+  "name": "Aurora de hielo",
+  "cat": "Naturaleza",
+  "speed": 1.0,
+  "layers": [
+   {
+    "type": "noise",
+    "scale": 1.2,
+    "speed": 0.18,
+    "octaves": 2,
+    "contrast": 1.4,
+    "stretch": 2,
+    "color": "#3dffb0",
+    "bg": "#1a0a78"
+   },
+   {
+    "type": "twinkle",
+    "density": 0.03,
+    "decay": 2,
+    "base": 0.0,
+    "color": "#ffffff",
+    "blend": "add"
+   }
+  ],
+  "tags": [
+   "naturaleza",
+   "galeria"
+  ],
+  "from": "Galería de la comunidad"
+ },
+ "scene": {
+  "name": "Aurora de hielo",
+  "wh": 100,
+  "spd": 50,
+  "bri": 90,
+  "hp": 2,
+  "hm": 31,
+  "tr": 1,
+  "music": "",
+  "loop": true,
+  "c1": "#3dffb0",
+  "c2": "#1a0a78",
+  "star": 2,
+  "motor": 15
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "fx": {
+  "name": "Chimenea con chispas",
+  "cat": "Fuego y luz",
+  "speed": 1.0,
+  "layers": [
+   {
+    "type": "fire",
+    "cooling": 0.06,
+    "sparking": 0.5,
+    "spread": 0.25,
+    "gain": 1.2,
+    "hbase": 0.3,
+    "colors": [
+     "#000000",
+     "#7a0800",
+     "#ff6a00",
+     "#ffd060"
+    ]
+   },
+   {
+    "type": "fountain",
+    "rate": 6,
+    "vy": 0.7,
+    "gravity": 1.1,
+    "spread": 0.5,
+    "size": 0.025,
+    "base": 0.33,
+    "colors": [
+     "#ffb040",
+     "#ffffff"
+    ],
+    "blend": "add"
+   }
+  ],
+  "tags": [
+   "fuego y luz",
+   "galeria"
+  ],
+  "from": "Galería de la comunidad"
+ },
+ "scene": {
+  "name": "Chimenea con chispas",
+  "wh": 100,
+  "spd": 50,
+  "bri": 90,
+  "hp": 2,
+  "hm": 31,
+  "tr": 1,
+  "music": "",
+  "loop": true,
+  "c1": "#ff6a00",
+  "c2": "#7a0800",
+  "star": 0,
+  "motor": 10
+ }
+}

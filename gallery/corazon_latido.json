@@ -1,0 +1,36 @@
+{
+ "fx": {
+  "name": "Corazón latiendo",
+  "cat": "Amor",
+  "speed": 1.0,
+  "layers": [
+   {
+    "type": "heartbeat",
+    "rate": 1.1,
+    "delay": 0.35,
+    "color": "#ff2040",
+    "bg": "#10000a"
+   }
+  ],
+  "tags": [
+   "amor",
+   "galeria"
+  ],
+  "from": "Galería de la comunidad"
+ },
+ "scene": {
+  "name": "Corazón latiendo",
+  "wh": 100,
+  "spd": 50,
+  "bri": 90,
+  "hp": 2,
+  "hm": 31,
+  "tr": 1,
+  "music": "",
+  "loop": true,
+  "c1": "#ff2040",
+  "c2": "#10000a",
+  "star": 1,
+  "motor": 10
+ }
+}

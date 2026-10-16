@@ -1,0 +1,46 @@
+{
+ "fx": {
+  "name": "Fuegos de Año Nuevo",
+  "cat": "Fiestas",
+  "speed": 1.0,
+  "layers": [
+   {
+    "type": "stars",
+    "speed": 0.4,
+    "sharp": 2,
+    "density": 0.5,
+    "color": "#fff0c0",
+    "bg": "#00000c"
+   },
+   {
+    "type": "fireworks",
+    "rate": 1.4,
+    "size": 0.34,
+    "fade": 1.0,
+    "speed": 2.6,
+    "flash": 0.8,
+    "blend": "add"
+   }
+  ],
+  "tags": [
+   "fiestas",
+   "galeria"
+  ],
+  "from": "Galería de la comunidad"
+ },
+ "scene": {
+  "name": "Fuegos de Año Nuevo",
+  "wh": 100,
+  "spd": 50,
+  "bri": 90,
+  "hp": 2,
+  "hm": 31,
+  "tr": 1,
+  "music": "",
+  "loop": true,
+  "c1": "#ffb428",
+  "c2": "#00000c",
+  "star": 2,
+  "motor": 20
+ }
+}
