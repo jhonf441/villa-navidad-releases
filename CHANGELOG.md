@@ -1,5 +1,15 @@
 # Cambios de cada versión
 
+## 2026-10-22b — Villa con graves y agudos, turnos de invitados con perfiles, salud del ESP32, subida de música corregida
+- Casas y túnel: patrón «Graves a agudos (música)» y 6 colores nuevos de casas (uno cambia con la música)
+- Escenas y shows al día con la villa; ambiente «Túnel del tren» en el generador
+- Invitados: perfiles de control, permisos por acción, zonas (árbol, casas, túnel, tren), interruptor de aceptar invitados, música y volumen con tope
+- Turnos: aviso a los 30 s, aviso al siguiente, «ya es tu turno» y extender 2 min si nadie espera
+- Sistema: panel Salud del ESP32 (memoria, temperatura, WiFi, MAC, último reinicio)
+- Tarjeta «En escena» describe qué hace la escena en árbol, casas, túnel, tren, estrella y giro
+- Música: los nombres largos conservan la extensión; registro de actividad de subidas
+- El PIN de 4 cifras entra solo al teclear la cuarta
+
 ## 2026-10-22 — Villa de 13 LED, prueba de luces, sensor de vuelta y web minimizada
 - La villa pasa a una tira de 13 LED RGB (sin blanco) en el orden real: casa 1 (2 LED), pasillo, casas y túnel del tren de 7 luces; MOSFET propio de la villa (GPIO 9) y LED blanco simple opcional para el tren (GPIO 10).
 - Botón de pulsador momentáneo: 1 toque enciende o apaga, 2 música, 3 escena siguiente, 4 modo «todo»; rescate del PIN con 6 pulsaciones y 10 s apretado.
