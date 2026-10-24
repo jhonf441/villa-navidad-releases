@@ -1,5 +1,10 @@
 # Cambios de cada versión
 
+## 2026-10-24 — Tira del arbol en zigzag con sentido configurable
+- La tira del arbol sube en zigzag: el LED 12 queda encima del 11, el 13 encima del 10...
+- Nuevo ajuste en Sistema: sentido de la 1.a vuelta (antihorario por defecto u horario); se aplica al instante
+- Conexiones: la serie de los LED se ve como linea gruesa con flechas
+
 ## 2026-10-22b — Villa con graves y agudos, turnos de invitados con perfiles, salud del ESP32, subida de música corregida
 - Casas y túnel: patrón «Graves a agudos (música)» y 6 colores nuevos de casas (uno cambia con la música)
 - Escenas y shows al día con la villa; ambiente «Túnel del tren» en el generador
